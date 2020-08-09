@@ -1,4 +1,4 @@
-# Neuralink Fantasy Pseudocode Bonanza 2020
+# Neuralink Fantasy Code Bonanza 2020
 
 This GitHub repo contains some mix of sci-fi fantasy and maybe a little bit of humor if I get around to it.
 
