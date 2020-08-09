@@ -1,6 +1,12 @@
+from magic import Magic
+
+
 class OperatingSystem:
     def __init__(self):
         pass
+
+    def install(self, behavior):
+        Magic.change_person(behavior)
 
 
 class Routine:
